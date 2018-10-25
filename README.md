@@ -1,5 +1,6 @@
 # Video_Image_Converter
 A simple implement to convert video into frame images, and you can also convert images into video(Use ffmpeg).
+<p align="center"><img src="images/scenario.png" width="50%" ></p>
 
 ## WHEN TO USE
 ### 1. Compress data size 
@@ -26,7 +27,7 @@ use **convert a video into frame images** as a demo, you have to assign video pa
 
 To see shape info of Video, In Windows you can get from here
 
-![](images/02.JPG)
+<p align="center"><img src="/images/02.JPG" height="300"></p>
 
 When it run finish, you can see lots of frame images in your output folder:)
 
